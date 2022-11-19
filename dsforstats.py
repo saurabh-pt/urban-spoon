@@ -5,6 +5,8 @@ from utils import probability
 from utils.testing import test_equal, test_close
 import utils.counting as C
 
+list1 = [1, 3, 5, 7]
+
 print("\nSOME PROBABILITY PROBLEMS\n")
 
 # Question 1
